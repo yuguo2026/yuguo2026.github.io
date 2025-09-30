@@ -3,7 +3,20 @@
 
 Hi there! I'm Yu Guo.
 
-<img src="profile.jpg" alt="myprofile" style="width: 150px; height: 150px; border-radius: 50%;">
+<div style="text-align: center;">
+    <img src="profile.jpg" 
+         alt="myprofile" 
+         style="width: 150px; 
+                height: 150px; 
+                border-radius: 50%; 
+                object-fit: cover; 
+                margin: 0 auto; 
+                display: block;">
+</div>
+
+# 👋 About Me
+
+Hi there! I'm Yu Guo.
 
 ---
 
