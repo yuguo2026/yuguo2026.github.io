@@ -3,9 +3,11 @@
 
 Hi there! I'm Yu Guo.
 
+---
+
 ## 🚀 The Journey So Far
 
-I earned my **B.Eng. in Communication Engineering** from the University of Electronic Science and Technology of China (**UESTC**) and completed my **M.S. in Electrical and Computer Engineering** at the University of California, Los Angeles (**UCLA**). Go Bruins! 🐻⭐
+I earned my **B.Eng. in Communication Engineering** from the University of Electronic Science and Technology of China (**UESTC**) and will complete my **M.S. in Electrical and Computer Engineering** at the University of California, Los Angeles (**UCLA**) in 2026. Go Bruins! 🐻⭐
 
 ---
 
