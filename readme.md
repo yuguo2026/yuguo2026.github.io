@@ -1,41 +1,33 @@
+<div align="center">
 
-# 👋 About Me
+<img src="profile.jpg" 
+     alt="my profile" 
+     width="150" 
+     style="border-radius: 50%; object-fit: cover;">
 
-Hi there! I'm Yu Guo.
+# 👋 Hi, I'm Yu Guo  
 
-<div style="text-align: center;">
-    <img src="profile.jpg" 
-         alt="myprofile" 
-         style="width: 150px; 
-                height: 150px; 
-                border-radius: 50%; 
-                object-fit: cover; 
-                margin: 0 auto; 
-                display: block;">
 </div>
 
-# 👋 About Me
+---
 
-Hi there! I'm Yu Guo.
+## 🚀 Journey So Far  
+
+- 🎓 **B.Eng. in Communication Engineering**, University of Electronic Science and Technology of China (**UESTC**)  
+- 🎓 **M.S. in Electrical and Computer Engineering**, University of California, Los Angeles (**UCLA**, expected 2026)  
+  *Go Bruins!* 🐻⭐  
 
 ---
 
-## 🚀 The Journey So Far
+## 🔬 Research & Experience  
 
-I earned my **B.Eng. in Communication Engineering** from the University of Electronic Science and Technology of China (**UESTC**) and will complete my **M.S. in Electrical and Computer Engineering** at the University of California, Los Angeles (**UCLA**) in 2026. Go Bruins! 🐻⭐
+- **🛰️ Satellite Networking**  
+  Designing architectures and protocols for resilient space-based communication systems.  
 
----
+- **🧠 Semantic Communication (SemCom)**  
+  Exploring transmission methods that emphasize *meaning* over bit-level accuracy to improve communication efficiency.  
 
-## 🔬 Research & Experience
-
-My research background encompasses several core areas within electrical engineering and computer science:
-
-- **🛰️ Satellite Networking**
-  > My work focused on the architecture and protocols for resilient space-based communication systems.
-
-- **🧠 Semantic Communication (SemCom)**
-  > I investigated novel methods for information transmission that prioritize the *meaning* of the data over mere accuracy, enhancing efficiency in communication systems.
-
-Currently, I am expanding my expertise into the emerging field of **Embodied AI** (Artificial Intelligence). This involves studying how intelligent agents can perceive, reason, and interact with the physical world, bridging the gap between theoretical AI and real-world robotics or autonomous systems.
+- **🤖 Embodied AI (in progress)**  
+  Investigating how intelligent agents can perceive, reason, and interact with the physical world—bridging theoretical AI with robotics and autonomous systems.  
 
 ---
