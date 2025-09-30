@@ -1,17 +1,11 @@
-<p align="center">
-  <img src="YOUR_PHOTO_LINK_HERE" alt="Your Profile Photo" width="200" style="border-radius: 50%;">
-</p>
 
 # 👋 About Me
 
----
+Hi there! I'm Yu Guo.
 
-## 🎓 Education
+## 🚀 The Journey So Far
 
-| Degree | Major | Institution |
-| :--- | :--- | :--- |
-| **B.Eng.** | Computer Engineering | University of Electronic Science and Technology of China (**UESTC**) |
-| **M.S.** | Electrical and Computer Engineering | University of California, Los Angeles (**UCLA**) |
+I earned my **B.Eng. in Computer Engineering** from the University of Electronic Science and Technology of China (**UESTC**) and completed my **M.S. in Electrical and Computer Engineering** at the University of California, Los Angeles (**UCLA**). Go Bruins! 🐻⭐
 
 ---
 
