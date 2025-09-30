@@ -1,11 +1,16 @@
 <div align="center">
-
-<img src="profile.jpg" 
-     alt="my profile" 
-     width="150" 
-     style="border-radius: 50%; object-fit: cover;">
-# 👋 Hi, I'm Yu Guo
+    <img src="profile.jpg" 
+         alt="myprofile" 
+         style="width: 150px; 
+                border-radius: 50%; 
+                object-fit: cover; 
+                margin: 0 auto; 
+                display: block;">
 </div>
+
+# 👋 About Me
+
+Hi there! I'm Yu Guo.
 
 ## 🚀 Journey So Far  
 
