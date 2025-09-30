@@ -4,12 +4,8 @@
      alt="my profile" 
      width="150" 
      style="border-radius: 50%; object-fit: cover;">
-
-# 👋 Hi, I'm Yu Guo  
-
+# 👋 Hi, I'm Yu Guo
 </div>
-
----
 
 ## 🚀 Journey So Far  
 
