@@ -3,6 +3,8 @@
 
 Hi there! I'm Yu Guo.
 
+<img src="profile.jpg" alt="myprofile" style="width: 150px; height: 150px; border-radius: 50%;">
+
 ---
 
 ## 🚀 The Journey So Far
